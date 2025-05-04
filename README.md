@@ -13,4 +13,4 @@ Columns of interest: Age, Position (Pos), and performance metrics such as PTS, A
 # Installation
 pip install pandas numpy matplotlib scipy
 
-For detailed explanations, analysis steps, and visualizations, please refer to the uploaded technical report included in this repository.
+For detailed data analysis and visualizations, please refer to the uploaded technical report included in this repository.
